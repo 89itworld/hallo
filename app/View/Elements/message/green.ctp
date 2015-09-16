@@ -1,0 +1,1 @@
+<p class="message success no-margin" style=""><?php echo $message; ?></p>
